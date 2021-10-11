@@ -1,5 +1,7 @@
 # Bridge-and-Torch
 
+Java project for the Artificial Intelligence course at AUEB. 
+
 <h2>Bridge and Torch Game Description</h2>
 
 The bridge and torch problem is a logic puzzle that deals with N people, a bridge and a torch. It is in the category of river crossing puzzles, where a family must move across a river, with some constraints.
